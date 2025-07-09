@@ -39,11 +39,9 @@ We will publish the relevant evaluation code and evaluate the model online by up
 The dataset is released under the CC BY 4.0 license. All data collection processes are authorized by the relevant companies.
 
 ## Citation
-'''
-@inproceedings{cps2dad,
-      title={Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application}, 
-      author={Ruiyun Yu and Bingyang Guo and Haoyuan Li},
-      year={2025},
-      booktitle={{IEEE/CVF} International Conference on Computer Vision, {ICCV} 2025}, 
-}
-'''
+
+    @inproceedings{cps2dad,
+                  title={Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application}, 
+                  author={Ruiyun Yu and Bingyang Guo and Haoyuan Li},
+                  year={2025},
+                  booktitle={{IEEE/CVF} International Conference on Computer Vision, {ICCV} 2025}}
