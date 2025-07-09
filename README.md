@@ -1,4 +1,4 @@
-# CPS2D-AD
+# Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application
 
 ## Data Link
 The dataset is uploaded into Google Drive, and the partial source data can be download in [here](https://drive.google.com/file/d/1Nasd7FhU0hqE7BzhwGm6UevbHMJjP4Ni/view?usp=sharing). The data collection and open-source have been authorized by a resolution of the company's board of directors. However, considering the possibility of data leakage during the review stage, our anonymous GitHub link does not fully cover all the data. If the paper is fortunate enough to be accepted, we will open source all the data samples and annotated files.
@@ -37,3 +37,13 @@ We will publish the relevant evaluation code and evaluate the model online by up
 
 ## Licenses
 The dataset is released under the CC BY 4.0 license. All data collection processes are authorized by the relevant companies.
+
+## Citation
+'''
+@inproceedings{cps2dad,
+      title={Anomaly Detection of Integrated Circuits Package Substrates Using the Large Vision Model SAIC: Dataset Construction, Methodology, and Application}, 
+      author={Ruiyun Yu and Bingyang Guo and Haoyuan Li},
+      year={2025},
+      booktitle={{IEEE/CVF} International Conference on Computer Vision, {ICCV} 2025}, 
+}
+'''
